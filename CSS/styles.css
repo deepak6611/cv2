@@ -1,5 +1,5 @@
 body {
-  background: #212121;
+  background: #FFC069;
   font-family: 'Major Mono Display', monospace;
 }
 hr,h1,h3{
@@ -7,7 +7,7 @@ hr,h1,h3{
   height: 100%;
   position: relative;
 }
-hr,h1,h3{
+h1,h3{
   margin-top: 20%;
   margin-left: 30%;
   color: #212121;
@@ -16,13 +16,13 @@ hr,h1,h3{
 h1 {
   position: sticky;
 }
-hr,h1,h3{
+h1,h3{
    text-shadow: 2px 2px 1px green, 
                6px 6px 20px #EC407A,
               -6px -6px 30px #EC407A,
               -6px -6px 300px #311B92;
 }
-hr,h1,h3 {
+h1,h3 {
   text-shadow: -2px -2px #EC407A,
                6px 6px 200px blue;
 }
